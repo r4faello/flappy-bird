@@ -1,0 +1,12 @@
+﻿  Source.cpp
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(7,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(46,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(47,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(48,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(49,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(54,23): warning C4305: '+=': truncation from 'double' to 'float'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(60,23): warning C4305: '-=': truncation from 'double' to 'float'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(63,17): warning C4305: '-=': truncation from 'double' to 'float'
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(66,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\openGL_projects\flappy_bird\flappy_bird\Source.cpp(119,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  flappy_bird.vcxproj -> D:\openGL_projects\flappy_bird\Debug\flappy_bird.exe
